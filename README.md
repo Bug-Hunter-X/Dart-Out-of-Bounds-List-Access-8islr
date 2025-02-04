@@ -1,0 +1,2 @@
+# Dart Out-of-Bounds List Access
+This example demonstrates an out-of-bounds exception in Dart when accessing a list index beyond its valid range.  This is a common error, and the solution is straightforward once understood.
